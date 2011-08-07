@@ -1,6 +1,6 @@
-Classe para leitura e Codificação de QR Code AS3
+Classe para leitura e decodificaÃ§Ã£o de QR Code em AS3
 
-Abaixo uma simples classe para utilização de QR Code que pode ser muito bem adaptada para qualquer leitura, 
-desde um simples link até para leituras mais complexas que podem ser guardadas dentro do QR Code.
+Abaixo uma simples classe para utilizaÃ§Ã£o de QR Code que pode ser muito bem adaptada para qualquer leitura, 
+desde um simples link atÃ© para leituras mais complexas que podem ser guardadas dentro do QR Code.
 
-A classe foi Adaptada da distribuição da Logosware (http://www.logosware.com).
+A classe foi Adaptada da distribuiÃ§Ã£o da Logosware (http://www.logosware.com).
